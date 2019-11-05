@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_nachogp_gf63_8rd__36663: 'http://nachogp-GF63-8RD:36663/'}
+rosversion: '1.14.3
+
+  '
+run_id: 39100c04-ffcf-11e9-afb2-00bb60621303
